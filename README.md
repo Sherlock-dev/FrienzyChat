@@ -1,18 +1,18 @@
 
-# Flash Chat ⚡️
+# FrienzyChat ⚡️
 
-## Our Goal
+##Goal
 
 The objective is to learn how to incorporate Firebase into our Flutter apps using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods.
 
 
-## created
+## Creation
 
 A modern messaging app where users can sign up and log in to chat.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
 
-## learnt
+## Learnings
 
 - How to incorporate Firebase into your Flutter projects.
 - How to use Firebase authentication to register and sign in users.
@@ -27,4 +27,3 @@ A modern messaging app where users can sign up and log in to chat.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
